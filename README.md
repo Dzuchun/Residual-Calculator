@@ -5,5 +5,10 @@ There is a code at net.sourceforge.bracer pacage I do not own. It was downloaded
 
 Bracer uses Apahe-Math, so I used it partially as well.
 
+Usage:
+Function - function to get residual of.
+Z0 - point to get residual at.
+R0 - radius of a circle to use for Cauchy formula.
+
 ![image](https://user-images.githubusercontent.com/46713596/145725471-b7e06daf-b0ac-4859-af4a-0c66108129f7.png)
 ![image](https://user-images.githubusercontent.com/46713596/145725502-2e963de2-e314-4cdb-afb2-6adbdb877413.png)
